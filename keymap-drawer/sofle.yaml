@@ -28,16 +28,16 @@ layers:
   - P
   - {t: '=', h: +, s: +}
   - $$mdi:apple-keyboard-caps$$
-  - {t: A, s: '$$mdi:apple-keyboard-command$$'}
-  - {t: S, s: '$$mdi:apple-keyboard-option$$'}
-  - {t: D, s: '$$mdi:apple-keyboard-control$$'}
-  - {t: F, s: '$$mdi:apple-keyboard-shift$$'}
+  - A
+  - S
+  - D
+  - F
   - G
   - $$mdi:arrow-left-bold$$
   - H
-  - {t: J, s: '$$mdi:apple-keyboard-shift$$'}
-  - {t: K, s: '$$mdi:apple-keyboard-control$$'}
-  - {t: L, s: '$$mdi:apple-keyboard-option$$'}
+  - J
+  - K
+  - L
   - {t: ;, h: ':', s: ':'}
   - {t: '''', h: '"', s: '"'}
   - $$mdi:apple-keyboard-shift$$
