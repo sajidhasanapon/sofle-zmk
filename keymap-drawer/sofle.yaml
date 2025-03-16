@@ -38,8 +38,8 @@ layers:
   - J
   - K
   - L
-  - {t: ;, h: ':', s: ':'}
-  - {t: '''', h: '"', s: '"'}
+  - {t: ;, s: ':'}
+  - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
@@ -49,10 +49,10 @@ layers:
   - $$mdi:arrow-right-bold$$
   - N
   - M
-  - {t: ',', h: <, s: <}
-  - {t: ., h: '>'}
-  - {t: /, h: '?', s: '?'}
-  - {t: '$$mdi:keyboard-return$$', h: RIGHT GUI}
+  - {t: ',', s: <}
+  - .
+  - {t: /, s: '?'}
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: Rgb, h: toggle}
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
